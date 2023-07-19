@@ -32,7 +32,6 @@ public class GetController {
     @GetMapping(value = "/api/code/{N}", produces = MediaType.APPLICATION_JSON_VALUE)
     @ResponseBody
     public Code getJsonByUuid(@PathVariable String N) {
-        Map<String, String> map = new LinkedHashMap<>();
         return service.retrieveCode(N);
     }
 

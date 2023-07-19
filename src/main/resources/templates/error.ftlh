@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <title>Error Page</title>
   <link href="/static/css/style.css" rel="stylesheet">
