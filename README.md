@@ -14,7 +14,9 @@ There is a lot of collaboration in programming: many projects require sharing yo
 * [H2 Database](https://www.h2database.com/) 
 * [Tailwind](https://tailwindcss.com/)
 ## Key Feauters
-
+ 1. UUID-based Code Sharing: Each code snippet receives a unique UUID, ensuring clear identification and accessibility for all shared pieces.
+ 2. Access Restrictions: Developers can set access restrictions based on the number of views or a defined time limit, enhancing security and control over shared code.
+ 3. User-friendly Interface: With an intuitive design, the platform facilitates easy navigation and interaction for users of all expertise levels.
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
